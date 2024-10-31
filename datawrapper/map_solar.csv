@@ -1,0 +1,123 @@
+location,latitude,longitude,status,investment_eur,company,tech,component
+Brandenburg,52.8455492,13.2461296,announced,105000000.0,1Komma5°,solar,modules
+Saxony,50.9295798,13.4585052,announced,105000000.0,1Komma5°,solar,modules
+Vranow,,,announced,15750000.0,Agora Solar,solar,modules
+Paris,48.8534951,2.3483915,announced,52500000.0,Akuo,solar,modules
+Turnu Măgurele,43.7518306,24.8691717,announced,267000000.0,Astrasun,solar,ingot_wafers
+Turnu Măgurele,43.7518306,24.8691717,announced,102000000.0,Astrasun Solar Kft.,solar,ingot_wafers
+Frankfurt (Oder),52.3412273,14.549452,announced,35700000.0,Astronergy Solarmodule GmbH,solar,modules
+Frankfurt (Oder),52.3412273,14.549452,actual,36750000.0,Astronergy Solarmodule GmbH,solar,modules
+Aragon,41.3787291,-0.7639373,announced,31500000.0,Aurinka,solar,modules
+Puertollano,38.6852161,-4.1111749,announced,60000000.0,Aurinka,solar,polysilicon
+Disneyland Paris,48.87007635000001,2.773909350791818,operational,3790500.0,Axpo,solar,modules
+Altenau,51.8034705,10.4472774,operational,105000.0,BYD,solar,modules
+Venissieux,45.6977109,4.8855966,operational,15750000.0,Bosch,solar,modules
+Vénissieux,45.6977109,4.8855966,operational,15750000.0,Bosch,solar,modules
+Patras,38.246242,21.7350847,actual,8600000.0,Brite Solar,solar,modules
+Patras,38.246242,21.7350847,announced,31500000.0,Brite Solar,solar,modules
+Tarnow,50.02598829999999,20.96405842696229,operational,3150000.0,Bruk-Bet Solar,solar,modules
+Tarnow,50.02598829999999,20.96405842696229,announced,12600000.0,Bruk-Bet Solar,solar,modules
+Tarnów,50.02598829999999,20.96405842696229,operational,3150000.0,Bruk-Bet Solar,solar,modules
+Tarnów,50.02598829999999,20.96405842696229,announced,12600000.0,Bruk-Bet Solar,solar,modules
+Wismar,53.8909832,11.4647932,operational,31500000.0,CS Wismar GmbH,solar,modules
+Bazzano,44.5040658,11.0821527,announced,16000000.0,Comal,solar,modules
+Prapretno,46.0845959,15.3779556,announced,315000.0,Dravske elektrarne Maribor,solar,modules
+3Sun,37.4218429,15.0562239,operational,21000000.0,Enel,solar,modules
+3Sun,37.4218429,15.0562239,actual,600000000.0,Enel,solar,modules
+Southern Italy,,,operational,21000000.0,Enel,solar,modules
+Southern Italy,,,announced,600000000.0,Enel,solar,modules
+Carinthia,46.7500001,13.8333333,announced,21000000.0,Energetica Industries,solar,modules
+Zaandam,52.4424926,4.8298607,operational,21000000.0,Energyra,solar,modules
+Zaandam,52.4424926,4.8298607,announced,31500000.0,Energyra,solar,modules
+Zernez,46.6979839,10.0943311,announced,19950.0,Engadiner Kraftwerke AG,solar,modules
+The Hague,52.07494555,4.269680220536451,operational,1575000.0,Exasun,solar,modules
+Frankfurt an der Oder,52.3412273,14.549452,announced,23415000.0,First Solar,solar,modules
+Frankfurt an der Oder,52.3412273,14.549452,operational,46830000.0,First Solar,solar,modules
+San Daniele del Friuli,46.1532406,13.0090339,operational,4200000.0,Fly Solartech Solutions Srl,solar,modules
+San Daniele del Friuli,46.1532406,13.0090339,announced,10500000.0,Fly Solartech Solutions Srl,solar,modules
+Agen,44.2015827,0.6176112,operational,5500000.0,Fonroche Energie SARL,solar,modules
+Agen,44.2015827,0.6176112,operational,3500000.0,Fonroche Energie SARL,solar,modules
+Agen,44.2015827,0.6176112,operational,7350000.0,Fonroche Energie SARL,solar,modules
+Cittadella,45.6487941,11.7835801,announced,25000000.0,FuturaSun,solar,modules
+Cittadella,45.6487941,11.7835801,announced,25000000.0,Futurasun,solar,modules
+Lannion,48.7322183,-3.4587994,operational,15750000.0,German solar manufacturer,solar,modules
+Berlin-Adlershof,52.434735,13.5415575,operational,3675000.0,Global Solar Energy,solar,modules
+Seville,37.3886303,-5.9953403,announced,525000000.0,Greenland,solar,modules
+Sevilla,37.3886303,-5.9953403,announced,525000000.0,Greenland Gigafactory,solar,modules
+Seville,37.3886303,-5.9953403,announced,525000000.0,Greenland Gigafactory,solar,modules
+Zaanstad,52.4689235,4.773783522451712,operational,10500000.0,Hanwha Group,solar,modules
+Chemnitz,50.8323531,12.918914,operational,2000000000.0,Heckert Solar,solar,modules
+Chemnitz,50.8323531,12.918914,announced,42000000.0,Heckert Solar,solar,modules
+Frankfurt am Oder,52.3255238,14.5474169,announced,1000000000.0,Heckert Solar,solar,polysilicon
+Langenwetzendorf,50.6803176,12.10921,operational,21000000.0,Heckert Solar,solar,modules
+Langenwetzendorf,50.6803176,12.10921,announced,2000000000.0,Heckert Solar,solar,modules
+Arnhem,51.984257,5.9108573,announced,29000000.0,Hyet Solar,solar,modules
+Asturias,43.3133868,-5.94192,announced,52500000.0,Iberdrola,solar,modules
+Lucerne,47.0505452,8.3054682,operational,16800.0,Insolight,solar,modules
+Rotterdam,51.9244424,4.47775,announced,26250000.0,Jinko Solar,solar,modules
+Transylvania,46.5971623,24.3740295,announced,10500000.0,Karpat Solar,solar,modules
+Rugby,52.3726682,-1.2620038,operational,735000.0,Longi Solar,solar,modules
+Undisclosed,,,announced,31500000.0,MCPV,solar,modules
+Porcelette,49.1569855,6.6535741,operational,4620000.0,Maxeon,solar,modules
+Freiberg,50.9169415,13.3428889,operational,42000000.0,Meyer Burger,solar,modules
+Freiberg,50.9169415,13.3428889,actual,185000000.0,Meyer Burger,solar,modules
+Freiberg,50.9169415,13.3428889,announced,147000000.0,Meyer Burger,solar,modules
+Apulia,40.9842539,16.6210027,operational,5250000.0,Midsummer,solar,modules
+Southeastern Sweden,,,announced,21000000.0,Midsummer,solar,modules
+near Stockholm,,,announced,32000000.0,Midsummer,solar,modules
+Bitterfeld,51.6239124,12.3301466,announced,30000000.0,NexWafe,solar,ingot_wafers
+Freiburg,47.9960901,7.8494005,operational,8000000.0,NexWafe,solar,ingot_wafers
+Freiburg,47.9960901,7.8494005,announced,260000000.0,NexWafe,solar,ingot_wafers
+Bitterfeld,51.6239124,12.3301466,announced,39000000.0,Nexwafe,solar,ingot_wafers
+Bitterfeld,51.6239124,12.3301466,announced,14833333.333333334,Nexwafe GmbH,solar,ingot_wafers
+Freiburg,47.9960901,7.8494005,announced,9500000.0,Nexwafe GmbH,solar,ingot_wafers
+Årdal,61.28605655,7.804961075198172,operational,8730000.0,NorSun,solar,ingot_wafers
+Årdal,61.28605655,7.804961075198172,announced,237333333.33333334,NorSun,solar,ingot_wafers
+Northern Sweden,,,announced,126000000.0,Nordcell Group,solar,modules
+Årdal,61.28605655,7.804961075198172,operational,54000000.0,Norsun,solar,ingot_wafers
+Årdal,61.28605655,7.804961075198172,announced,178000000.0,Norsun,solar,ingot_wafers
+Glomfjord,66.8122881,13.9493751,announced,213600000.0,Norwegian Crystals,solar,ingot_wafers
+Bourgoin-Jailleu,,,announced,5250000.0,Photowatt,solar,modules
+Bourgoin-Jailleu,,,operational,52500000.0,Photowatt,solar,modules
+Les Ilots Blandin,,,announced,7770000.0,Q Energy,solar,modules
+Moselle,49.0207259,6.538035170357949,announced,420000000.0,REC Group,solar,modules
+Garzweiler Mine,,,operational,2036999.9999999998,RWE,solar,modules
+Lannion,48.7322183,-3.4587994,operational,5250000.0,Recom,solar,modules
+Lannion,48.7322183,-3.4587994,announced,5250000.0,Recom Solar,solar,modules
+Navarra,42.61254875,-1.830787673361753,announced,5250000.0,Rinovasol,solar,modules
+U.K.,54.7023545,-3.2765753,announced,1890000.0,Roof Tiles Technology Ltd,solar,modules
+Torgau,51.5581272,13.0046538,operational,10500000.0,Saint Gobain,solar,modules
+Dorog City,,,operational,19000000.0,Sanyo,solar,modules
+Kahl am Main,50.0682273,9.007909,announced,55000000.0,Singulus,solar,modules
+Freiburg,47.9960901,7.8494005,operational,17850000.0,SolarWorld,solar,modules
+Freiburg,47.9960901,7.8494005,operational,63000000.0,SolarWorld,solar,modules
+Eindhoven,51.4392648,5.478633,operational,3000000.0,Solarge,solar,modules
+Eindhoven,51.4392648,5.478633,announced,52500000.0,Solarge,solar,modules
+Viljandi,58.36454,25.5878074,operational,10000000.0,Solarstone,solar,modules
+Dresden,51.0493286,13.7381437,operational,31500000.0,Solarwatt,solar,modules
+Hegau-Ost service area,,,announced,3465.0,Solarwatt,solar,modules
+Langenwetzendorf,50.6803176,12.10921,announced,42000000.0,Solarwelt GmbH,solar,modules
+Thalheim,50.7024268,12.8514034,operational,87150000.0,Solibro GmbH,solar,modules
+Benevento,41.2476307,14.70570536314653,announced,50000000.0,Solitek,solar,modules
+Bitburg,49.9732762,6.524947,announced,21000000.0,Soluxtec,solar,modules
+Bitburg,49.9732762,6.524947,actual,57750000.0,Soluxtec,solar,modules
+Wismar,53.8909832,11.4647932,operational,21000000.0,Sonnenstromfabrik,solar,modules
+Wismar,53.8909832,11.4647932,announced,31500000.0,Sonnenstromfabrik,solar,modules
+Hof,50.3219015,11.9178807,operational,147.0,Sono Motors,solar,modules
+Dresden,51.0493286,13.7381437,actual,5250000.0,Sunmaxx PVT,solar,modules
+Dresden,51.0493286,13.7381437,announced,315000000.0,Sunmaxx PVT,solar,modules
+Hautes-Alpes,44.6564666,6.352024584507948,operational,4200000.0,Sunwind,solar,modules
+"Cobra Solar park, Spain",,,operational,19845000.0,Trina Solar,solar,modules
+Munich,48.1371079,11.5753822,announced,52500000.0,Trina Solar,solar,modules
+Augsburg,48.3690341,10.8979522,operational,10800000.0,Tube Solar AG,solar,modules
+Geesthacht,53.4374683,10.3678235,operational,252000.0,Vattenfall,solar,modules
+Markersbach,50.5329274,12.869615,operational,110250000.0,Vattenfall,solar,modules
+near Milan,,,operational,8400000.0,Verditek,solar,modules
+Dinsheim-sur-Bruche,48.5430561,7.4269445,announced,9300000.0,Voltec Solar,solar,modules
+Dinsheim-sur-Bruche,48.5430561,7.4269445,operational,15000000.0,Voltec Solar,solar,modules
+Freiburg,47.9960901,7.8494005,operational,252000.0,badenovaWÄRMEPLUS,solar,modules
+Sicily,37.587794,14.155048,announced,25725000.0,ib vogt,solar,modules
+Province of L'Aquila,,,announced,16100000.0,Comal,solar,modules
+Vis,43.0434206,16.16547253260465,operational,367500.0,HEP,solar,modules
+Mikkeli,61.6877956,27.2726569,operational,2100000.0,Valoe,solar,modules
+Mikkeli,61.6877956,27.2726569,announced,6300000.0,Valoe,solar,modules
