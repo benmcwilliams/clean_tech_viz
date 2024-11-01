@@ -1,135 +1,135 @@
-location,latitude,longitude,status,investment_eur,company,tech,component
-Billy-Berclau _ Douvrin,,,operational,850000000.0,ACC,battery,cell_manufacturing
-Douai,50.3675677,3.0804641,announced,1300000000.0,AESC Envision,battery,cell_manufacturing
-International Advanced Manufacturing Park,54.92555595,-1.477774134787026,announced,521999999.9999999,AESC Envision,battery,cell_manufacturing
-Navalmoral de la Mata,39.8928306,-5.5401199,operational,1000000000.0,AESC Envision,battery,cell_manufacturing
-Sunderland,54.9058512,-1.3828727,actual,521999999.9999999,AESC Envision,battery,cell_manufacturing
-Sunderland,54.9058512,-1.3828727,announced,232000000.0,AESC Envision,battery,cell_manufacturing
-Sunderland,54.9058512,-1.3828727,announced,2088000000.0,AESC Envision,battery,cell_manufacturing
-Dundee,56.4605938,-2.97019,announced,34900000.0,AMTE Power,battery,cell_manufacturing
-Bridgwater,51.1283378,-3.0037046,announced,2792000000.0,Agratas,battery,cell_manufacturing
-Puriton,51.1705026,-2.9725725,announced,4640000000.0,Agratas,battery,cell_manufacturing
-Darmstadt,49.8851869,8.6736295,operational,100000000.0,Akasol,battery,cell_manufacturing
-Darmstadt,49.8851869,8.6736295,announced,174500000.0,Akasol,battery,cell_manufacturing
-Galați,45.4338215,28.0549395,announced,1400000000.0,Avesta Battery and Energy Engineering,battery,cell_manufacturing
-Karlstein,50.0443203,9.0337844,operational,1047000000.0,BMZ,battery,cell_manufacturing
-Karlstein,50.0443203,9.0337844,actual,120000000.0,BMZ,battery,cell_manufacturing
-Vitoria-Gasteiz,42.8465088,-2.6724025,announced,69800000.0,Basquevolt,battery,cell_manufacturing
-Dübendorf,47.3969942,8.6185666,operational,2760000.0,Battrion,battery,battery_materials
-Bro Tathan,51.4140513,-3.4339013,announced,1392000000.0,Britishvolt,battery,cell_manufacturing
-Port of Sines,,,announced,1047000000.0,CALB,battery,cell_manufacturing
-Sines,37.956549,-8.8689639,announced,2000000000.0,CALB,battery,cell_manufacturing
-Arnstadt,50.8349097,10.9461479,operational,1800000000.0,CATL,battery,cell_manufacturing
-Arnstadt,50.8349097,10.9461479,actual,977200000.0,CATL,battery,cell_manufacturing
-Arnstadt,50.8349097,10.9461479,announced,6980000000.0,CATL,battery,cell_manufacturing
-Debrecen,47.531399,21.6259782,announced,7340000000.0,CATL,battery,cell_manufacturing
-Munich,48.1371079,11.5753822,announced,1675200000.0,CATL,battery,cell_manufacturing
-Thueringia,50.3408448,11.1828245,actual,1800000000.0,CATL,battery,cell_manufacturing
-Thuringia,50.9014721,11.0377839,operational,1800000000.0,CATL,battery,cell_manufacturing
-Thuringia,50.9014721,11.0377839,actual,977200000.0,CATL,battery,cell_manufacturing
-Turin,45.0677551,7.6824892,announced,139600.0,Comau,battery,cell_manufacturing
-Debrecen,47.531399,21.6259782,announced,8100000000.0,Contemporary Amperex Technology Co. Limited (CATL),battery,cell_manufacturing
-Itzehoe,53.919448,9.5172441,announced,60000000.0,Customcells,battery,cell_manufacturing
-Winterthur,47.4991723,8.7291498,announced,11866.0,Designwerk,battery,cell_manufacturing
-Leipzig,51.3406321,12.3747329,operational,48000000.0,Dräxlmaier,battery,module_assembly
-Navalmoral de la Mata,39.8928306,-5.5401199,announced,1300000000.0,Envision AESC,battery,cell_manufacturing
-Coventry,52.4081812,-1.510477,announced,1392000000.0,Eve Energy,battery,cell_manufacturing
-Coventry,52.4081812,-1.510477,actual,4188000000.0,Eve Energy,battery,cell_manufacturing
-Debrecen,47.531399,21.6259782,operational,1080000000.0,Eve Energy,battery,cell_manufacturing
-Bitterfeld,51.6239124,12.3301466,announced,600000000.0,Farasis Energy,battery,cell_manufacturing
-Kotka,60.4674228,26.9450844,announced,1884600000.0,Finish Minerals Group,battery,cell_manufacturing
-Kymenlaakso,60.7318529,27.08287442160486,announced,1884600000.0,Finnish Minerals Group,battery,cell_manufacturing
-Vaasa,63.08182094999999,21.4798125222968,announced,733750000.0,Finnish Minerals Group,battery,battery_materials
-Vaasa,63.08182094999999,21.4798125222968,actual,3668750000.0,Finnish Minerals Group,battery,battery_materials
-Chasseneuil-du-Poitou,46.6505634,0.3748389,operational,34000000.0,Forsee Power,battery,module_assembly
-Poitiers,46.5802596,0.340196,operational,69800000.0,Forsee Power,battery,cell_manufacturing
-Poitiers,46.5802596,0.340196,announced,279200000.0,Forsee Power,battery,cell_manufacturing
-Giga Arctic,,,announced,3490000000.0,Freyr,battery,cell_manufacturing
-Mo i Rana,66.3110969,14.1386991,actual,1445000000.0,Freyr,battery,cell_manufacturing
-Mo i Rana,66.3110969,14.1386991,announced,13960000000.0,Freyr,battery,cell_manufacturing
-Vaasa,63.0957722,21.6159187,announced,3155125000.0,Freyr,battery,battery_materials
-Göttingen,51.5328328,9.9351811,operational,170000000.0,Gotion High Tech,battery,module_assembly
-Salzgitter,52.1503721,10.3593147,announced,1396000000.0,Gotion High Tech,battery,cell_manufacturing
-Voderady,48.2765255,17.559025,operational,6980000.0,Gotion InoBat Batteries,battery,cell_manufacturing
-Voderady,48.2765255,17.559025,announced,698000000.0,Gotion InoBat Batteries,battery,cell_manufacturing
-Šurany,48.0861055,18.1868344,announced,1396000000.0,Gotion InoBat Batteries,battery,cell_manufacturing
-Munich,48.1371079,11.5753822,announced,1047000000.0,Hithium,battery,cell_manufacturing
-Munich,48.1371079,11.5753822,operational,4886000000.0,Hithium,battery,cell_manufacturing
-Goliath,52.6148632,-2.9079622,operational,324800.0,Ilika,battery,cell_manufacturing
-Goliath,52.6148632,-2.9079622,announced,139600.0,Ilika,battery,cell_manufacturing
-Romsey,50.9891396,-1.4999044,announced,9511999.999999998,Ilika,battery,cell_manufacturing
-GigafactoryX,,,actual,68000000.0,Impact Clean Power Technology,battery,module_assembly
-GigafactoryX,,,announced,170000000.0,Impact Clean Power Technology,battery,module_assembly
-Hannover,52.3744779,9.7385532,operational,41880000.0,Impact Clean Power Technology,battery,cell_manufacturing
-Hannover,52.3744779,9.7385532,announced,83760000.0,Impact Clean Power Technology,battery,cell_manufacturing
-Pruszkow,52.1626141,20.8080199,announced,40800000.0,Impact Clean Power Technology,battery,module_assembly
-Pruszkow,52.1626141,20.8080199,actual,136000000.0,Impact Clean Power Technology,battery,module_assembly
-Warsaw,52.2337172,21.07143223563649,operational,29750000.0,Impact Clean Power Technology,battery,cell_manufacturing
-Warsaw,52.2337172,21.07143223563649,announced,349000000.0,Impact Clean Power Technology,battery,cell_manufacturing
-Berlin,52.510885,13.3989367,announced,1396000000.0,InoBat Auto,battery,cell_manufacturing
-Bathgate,55.9009224,-3.6414828,announced,61200.0,Invinity Energy Systems,battery,module_assembly
-Northern Italy,44.5235532,11.3919546,announced,3141000000.0,Italvolt,battery,cell_manufacturing
-Scarmagno,45.384456,7.841119,announced,4000000000.0,Italvolt,battery,cell_manufacturing
-Scarmagno,45.384456,7.841119,actual,4886000000.0,Italvolt,battery,cell_manufacturing
-Biskupice Podgórne,51.0311258,16.8842434,operational,95000000.0,LG,battery,cell_manufacturing
-Wroclaw,51.1089776,17.0326689,operational,1380000000.0,LG,battery,cell_manufacturing
-Wroclaw,51.1089776,17.0326689,actual,571000000.0,LG,battery,cell_manufacturing
-Wroclaw,51.1089776,17.0326689,announced,480000000.0,LG,battery,cell_manufacturing
-Yverdon-les-Baines,,,operational,17000000.0,Leclanche,battery,module_assembly
-Ludwigsfelde,52.3016096,13.2610163,operational,50000000.0,Microvast,battery,module_assembly
-Ludwigsfelde,52.3016096,13.2610163,actual,204000000.0,Microvast,battery,module_assembly
-Arendal,58.42673005,8.94694911492874,announced,100000000.0,Morrow Batteries,battery,cell_manufacturing
-Pompignac,44.85028,-0.43736,operational,34900000.0,Neogy,battery,cell_manufacturing
-Berlin,52.510885,13.3989367,announced,4188000000.0,Northvolt,battery,cell_manufacturing
-Borlänge,60.4856426,15.4234561,announced,7337500000.0,Northvolt,battery,battery_materials
-Gdansk,54.42880315,18.79832701217957,announced,170000000.0,Northvolt,battery,module_assembly
-Gdańsk,54.3482907,18.6540233,operational,935000000.0,Northvolt,battery,module_assembly
-Gdańsk,54.3482907,18.6540233,announced,170000000.0,Northvolt,battery,module_assembly
-Heide,54.1948848,9.0928251,announced,4500000000.0,Northvolt,battery,cell_manufacturing
-Northern Germany,,,announced,4188000000.0,Northvolt,battery,cell_manufacturing
-Northern Sweden,,,operational,2792000000.0,Northvolt,battery,cell_manufacturing
-Northern Sweden,,,announced,2337500000.0,Northvolt,battery,cell_manufacturing
-Northvolt Ett,64.73432875,21.08690379187087,operational,4188000000.0,Northvolt,battery,cell_manufacturing
-Northvolt Ett gigafactory,,,announced,2792000000.0,Northvolt,battery,cell_manufacturing
-Northvolt Ett gigafactory,,,operational,2337500000.0,Northvolt,battery,cell_manufacturing
-Salzgitter,52.1503721,10.3593147,actual,1000000000.0,Northvolt,battery,cell_manufacturing
-Salzgitter,52.1503721,10.3593147,announced,1675200000.0,Northvolt,battery,cell_manufacturing
-Skellefteå,64.75,21.133333,operational,1116800000.0,Northvolt,battery,cell_manufacturing
-Skellefteå,64.75,21.133333,actual,4250000000.0,Northvolt,battery,cell_manufacturing
-Skellefteå,64.75,21.133333,announced,4188000000.0,Northvolt,battery,cell_manufacturing
-Umeå,63.8256568,20.2630745,operational,558400000.0,Northvolt,battery,cell_manufacturing
-Umeå,63.8256568,20.2630745,announced,1116800000.0,Northvolt,battery,cell_manufacturing
-Kaiserslautern,49.4432174,7.7689951,announced,2000000000.0,Opel,battery,cell_manufacturing
-Gärtringen,48.6419208,8.9031632,announced,1000000000.0,Porsche,battery,cell_manufacturing
-Heilbronn,49.142291,9.218655,announced,6980000.0,Porsche,battery,cell_manufacturing
-Dunkirk,51.0347708,2.3772525,announced,5200000000.0,ProLogium,battery,cell_manufacturing
-Ivancsa,47.1473327,18.8311498,announced,1946500000.0,SK Group,battery,cell_manufacturing
-Iváncsa,47.1473327,18.8311498,announced,1623000000.0,SK Group,battery,cell_manufacturing
-Komárom,47.7417349,18.1218256,operational,1300000000.0,SK Group,battery,cell_manufacturing
-Komárom,47.7417349,18.1218256,actual,700000000.0,SK Group,battery,cell_manufacturing
-Kotka,60.4674228,26.9450844,announced,3490000000.0,SVOLT,battery,cell_manufacturing
-Budapest,47.4978789,19.0402383,announced,60750000.0,Samsung,battery,cell_manufacturing
-Budapest,47.4978789,19.0402383,actual,720000000.0,Samsung,battery,cell_manufacturing
-Pompignac,44.85028,-0.43736,announced,34000000.0,Startec Energy,battery,module_assembly
-Bridgwater,51.1283378,-3.0037046,announced,4640000000.0,Tata Group,battery,cell_manufacturing
-Sunderland,54.9058512,-1.3828727,actual,4640000000.0,Tata Group,battery,cell_manufacturing
-Sunderland,54.9058512,-1.3828727,announced,2792000000.0,Tata Group,battery,cell_manufacturing
-Berlin,52.510885,13.3989367,operational,5000000000.0,Tesla,battery,cell_manufacturing
-Berlin,52.510885,13.3989367,operational,13960000000.0,Tesla,battery,cell_manufacturing
-Wittenberg,51.8666527,12.646761,operational,34000.0,Tesvolt,battery,module_assembly
-Hauts-de-France,50.1024606,2.7247515,announced,48860000.0,Tiamat,battery,cell_manufacturing
-Nysa,50.4738029,17.3324733,operational,125000000.0,Umicore,battery,battery_materials
-Nysa,50.4738029,17.3324733,announced,350000000.0,Umicore,battery,battery_materials
-V4Drive,,,announced,139600000.0,Varta,battery,cell_manufacturing
-Douai,50.3675677,3.0804641,announced,1116800000.0,Verkor,battery,cell_manufacturing
-Dunkirk,51.0347708,2.3772525,actual,3000000000.0,Verkor,battery,cell_manufacturing
-Dunkirk,51.0347708,2.3772525,announced,1300000000.0,Verkor,battery,cell_manufacturing
-Grenoble,45.1875602,5.7357819,operational,250000000.0,Verkor,battery,cell_manufacturing
-Rodez,44.3511408,2.5728493,announced,1600000000.0,Verkor,battery,cell_manufacturing
-South of France,43.5768598,7.0209473,announced,1600000000.0,Verkor,battery,cell_manufacturing
-Sagunt,39.6792916,-0.2786451,operational,2792000000.0,Volkswagen,battery,cell_manufacturing
-Sagunto,39.6792916,-0.2786451,actual,10000000000.0,Volkswagen,battery,cell_manufacturing
-Gothenburg,57.7072326,11.9670171,actual,3490000000.0,Volvo Group,battery,cell_manufacturing
-Hampshire,51.04498135,-1.243313330111055,announced,139600.0,Ilika,battery,cell_manufacturing
-GigafactoryX,,,announced,41880000.0,Impact Clean Power Technology,battery,cell_manufacturing
-Romano Canavese,45.388657,7.86652,announced,3141000000.0,Italvolt,battery,cell_manufacturing
+location,latitude,longitude,status,investment_eur,company,tech,component,capacity_numeric
+Billy-Berclau _ Douvrin,,,operational,850000000.0,ACC,battery,cell_manufacturing,13000.0
+Douai,50.3675677,3.0804641,announced,1300000000.0,AESC Envision,battery,cell_manufacturing,9000.0
+International Advanced Manufacturing Park,54.92555595,-1.477774134787026,announced,521999999.9999999,AESC Envision,battery,cell_manufacturing,9000.0
+Navalmoral de la Mata,39.8928306,-5.5401199,operational,1000000000.0,AESC Envision,battery,cell_manufacturing,50000.0
+Sunderland,54.9058512,-1.3828727,actual,521999999.9999999,AESC Envision,battery,cell_manufacturing,12000.0
+Sunderland,54.9058512,-1.3828727,announced,232000000.0,AESC Envision,battery,cell_manufacturing,25000.0
+Sunderland,54.9058512,-1.3828727,announced,2088000000.0,AESC Envision,battery,cell_manufacturing,35000.0
+Dundee,56.4605938,-2.97019,announced,34900000.0,AMTE Power,battery,cell_manufacturing,500.0
+Bridgwater,51.1283378,-3.0037046,announced,2792000000.0,Agratas,battery,cell_manufacturing,40000.0
+Puriton,51.1705026,-2.9725725,announced,4640000000.0,Agratas,battery,cell_manufacturing,40000.0
+Darmstadt,49.8851869,8.6736295,operational,100000000.0,Akasol,battery,cell_manufacturing,1000.0
+Darmstadt,49.8851869,8.6736295,announced,174500000.0,Akasol,battery,cell_manufacturing,2500.0
+Galați,45.4338215,28.0549395,announced,1400000000.0,Avesta Battery and Energy Engineering,battery,cell_manufacturing,22000.0
+Karlstein,50.0443203,9.0337844,operational,1047000000.0,BMZ,battery,cell_manufacturing,15000.0
+Karlstein,50.0443203,9.0337844,actual,120000000.0,BMZ,battery,cell_manufacturing,30000.0
+Vitoria-Gasteiz,42.8465088,-2.6724025,announced,69800000.0,Basquevolt,battery,cell_manufacturing,1000.0
+Dübendorf,47.3969942,8.6185666,operational,2760000.0,Battrion,battery,battery_materials,20.0
+Bro Tathan,51.4140513,-3.4339013,announced,1392000000.0,Britishvolt,battery,cell_manufacturing,35000.0
+Port of Sines,,,announced,1047000000.0,CALB,battery,cell_manufacturing,15000.0
+Sines,37.956549,-8.8689639,announced,2000000000.0,CALB,battery,cell_manufacturing,15000.0
+Arnstadt,50.8349097,10.9461479,operational,1800000000.0,CATL,battery,cell_manufacturing,8000.0
+Arnstadt,50.8349097,10.9461479,actual,977200000.0,CATL,battery,cell_manufacturing,14000.0
+Arnstadt,50.8349097,10.9461479,announced,6980000000.0,CATL,battery,cell_manufacturing,100000.0
+Debrecen,47.531399,21.6259782,announced,7340000000.0,CATL,battery,cell_manufacturing,100000.0
+Munich,48.1371079,11.5753822,announced,1675200000.0,CATL,battery,cell_manufacturing,24000.0
+Thueringia,50.3408448,11.1828245,actual,1800000000.0,CATL,battery,cell_manufacturing,14000.0
+Thuringia,50.9014721,11.0377839,operational,1800000000.0,CATL,battery,cell_manufacturing,8000.0
+Thuringia,50.9014721,11.0377839,actual,977200000.0,CATL,battery,cell_manufacturing,14000.0
+Turin,45.0677551,7.6824892,announced,139600.0,Comau,battery,cell_manufacturing,2.0
+Debrecen,47.531399,21.6259782,announced,8100000000.0,Contemporary Amperex Technology Co. Limited (CATL),battery,cell_manufacturing,100000.0
+Itzehoe,53.919448,9.5172441,announced,60000000.0,Customcells,battery,cell_manufacturing,100.0
+Winterthur,47.4991723,8.7291498,announced,11866.0,Designwerk,battery,cell_manufacturing,0.17
+Leipzig,51.3406321,12.3747329,operational,48000000.0,Dräxlmaier,battery,module_assembly,0.1
+Navalmoral de la Mata,39.8928306,-5.5401199,announced,1300000000.0,Envision AESC,battery,cell_manufacturing,50000.0
+Coventry,52.4081812,-1.510477,announced,1392000000.0,Eve Energy,battery,cell_manufacturing,20000.0
+Coventry,52.4081812,-1.510477,actual,4188000000.0,Eve Energy,battery,cell_manufacturing,60000.0
+Debrecen,47.531399,21.6259782,operational,1080000000.0,Eve Energy,battery,cell_manufacturing,28000.0
+Bitterfeld,51.6239124,12.3301466,announced,600000000.0,Farasis Energy,battery,cell_manufacturing,6000.0
+Kotka,60.4674228,26.9450844,announced,1884600000.0,Finish Minerals Group,battery,cell_manufacturing,27000.0
+Kymenlaakso,60.7318529,27.08287442160486,announced,1884600000.0,Finnish Minerals Group,battery,cell_manufacturing,27000.0
+Vaasa,63.08182094999999,21.4798125222968,announced,733750000.0,Finnish Minerals Group,battery,battery_materials,10000.0
+Vaasa,63.08182094999999,21.4798125222968,actual,3668750000.0,Finnish Minerals Group,battery,battery_materials,50000.0
+Chasseneuil-du-Poitou,46.6505634,0.3748389,operational,34000000.0,Forsee Power,battery,module_assembly,1000.0
+Poitiers,46.5802596,0.340196,operational,69800000.0,Forsee Power,battery,cell_manufacturing,1000.0
+Poitiers,46.5802596,0.340196,announced,279200000.0,Forsee Power,battery,cell_manufacturing,4000.0
+Giga Arctic,,,announced,3490000000.0,Freyr,battery,cell_manufacturing,50000.0
+Mo i Rana,66.3110969,14.1386991,actual,1445000000.0,Freyr,battery,cell_manufacturing,29000.0
+Mo i Rana,66.3110969,14.1386991,announced,13960000000.0,Freyr,battery,cell_manufacturing,200000.0
+Vaasa,63.0957722,21.6159187,announced,3155125000.0,Freyr,battery,battery_materials,43000.0
+Göttingen,51.5328328,9.9351811,operational,170000000.0,Gotion High Tech,battery,module_assembly,5000.0
+Salzgitter,52.1503721,10.3593147,announced,1396000000.0,Gotion High Tech,battery,cell_manufacturing,20000.0
+Voderady,48.2765255,17.559025,operational,6980000.0,Gotion InoBat Batteries,battery,cell_manufacturing,100.0
+Voderady,48.2765255,17.559025,announced,698000000.0,Gotion InoBat Batteries,battery,cell_manufacturing,10000.0
+Šurany,48.0861055,18.1868344,announced,1396000000.0,Gotion InoBat Batteries,battery,cell_manufacturing,20000.0
+Munich,48.1371079,11.5753822,announced,1047000000.0,Hithium,battery,cell_manufacturing,15000.0
+Munich,48.1371079,11.5753822,operational,4886000000.0,Hithium,battery,cell_manufacturing,70000.0
+Goliath,52.6148632,-2.9079622,operational,324800.0,Ilika,battery,cell_manufacturing,0.05
+Goliath,52.6148632,-2.9079622,announced,139600.0,Ilika,battery,cell_manufacturing,2.0
+Romsey,50.9891396,-1.4999044,announced,9511999.999999998,Ilika,battery,cell_manufacturing,0.01
+GigafactoryX,,,actual,68000000.0,Impact Clean Power Technology,battery,module_assembly,2000.0
+GigafactoryX,,,announced,170000000.0,Impact Clean Power Technology,battery,module_assembly,5000.0
+Hannover,52.3744779,9.7385532,operational,41880000.0,Impact Clean Power Technology,battery,cell_manufacturing,600.0
+Hannover,52.3744779,9.7385532,announced,83760000.0,Impact Clean Power Technology,battery,cell_manufacturing,1200.0
+Pruszkow,52.1626141,20.8080199,announced,40800000.0,Impact Clean Power Technology,battery,module_assembly,1200.0
+Pruszkow,52.1626141,20.8080199,actual,136000000.0,Impact Clean Power Technology,battery,module_assembly,4000.0
+Warsaw,52.2337172,21.07143223563649,operational,29750000.0,Impact Clean Power Technology,battery,cell_manufacturing,1200.0
+Warsaw,52.2337172,21.07143223563649,announced,349000000.0,Impact Clean Power Technology,battery,cell_manufacturing,5000.0
+Berlin,52.510885,13.3989367,announced,1396000000.0,InoBat Auto,battery,cell_manufacturing,20000.0
+Bathgate,55.9009224,-3.6414828,announced,61200.0,Invinity Energy Systems,battery,module_assembly,1.8
+Northern Italy,44.5235532,11.3919546,announced,3141000000.0,Italvolt,battery,cell_manufacturing,45000.0
+Scarmagno,45.384456,7.841119,announced,4000000000.0,Italvolt,battery,cell_manufacturing,45000.0
+Scarmagno,45.384456,7.841119,actual,4886000000.0,Italvolt,battery,cell_manufacturing,70000.0
+Biskupice Podgórne,51.0311258,16.8842434,operational,95000000.0,LG,battery,cell_manufacturing,35000.0
+Wroclaw,51.1089776,17.0326689,operational,1380000000.0,LG,battery,cell_manufacturing,70000.0
+Wroclaw,51.1089776,17.0326689,actual,571000000.0,LG,battery,cell_manufacturing,65000.0
+Wroclaw,51.1089776,17.0326689,announced,480000000.0,LG,battery,cell_manufacturing,90000.0
+Yverdon-les-Baines,,,operational,17000000.0,Leclanche,battery,module_assembly,500.0
+Ludwigsfelde,52.3016096,13.2610163,operational,50000000.0,Microvast,battery,module_assembly,1500.0
+Ludwigsfelde,52.3016096,13.2610163,actual,204000000.0,Microvast,battery,module_assembly,6000.0
+Arendal,58.42673005,8.94694911492874,announced,100000000.0,Morrow Batteries,battery,cell_manufacturing,1000.0
+Pompignac,44.85028,-0.43736,operational,34900000.0,Neogy,battery,cell_manufacturing,500.0
+Berlin,52.510885,13.3989367,announced,4188000000.0,Northvolt,battery,cell_manufacturing,60000.0
+Borlänge,60.4856426,15.4234561,announced,7337500000.0,Northvolt,battery,battery_materials,100000.0
+Gdansk,54.42880315,18.79832701217957,announced,170000000.0,Northvolt,battery,module_assembly,5000.0
+Gdańsk,54.3482907,18.6540233,operational,935000000.0,Northvolt,battery,module_assembly,5000.0
+Gdańsk,54.3482907,18.6540233,announced,170000000.0,Northvolt,battery,module_assembly,12000.0
+Heide,54.1948848,9.0928251,announced,4500000000.0,Northvolt,battery,cell_manufacturing,60000.0
+Northern Germany,,,announced,4188000000.0,Northvolt,battery,cell_manufacturing,60000.0
+Northern Sweden,,,operational,2792000000.0,Northvolt,battery,cell_manufacturing,40000.0
+Northern Sweden,,,announced,2337500000.0,Northvolt,battery,cell_manufacturing,60000.0
+Northvolt Ett,64.73432875,21.08690379187087,operational,4188000000.0,Northvolt,battery,cell_manufacturing,60000.0
+Northvolt Ett gigafactory,,,announced,2792000000.0,Northvolt,battery,cell_manufacturing,40000.0
+Northvolt Ett gigafactory,,,operational,2337500000.0,Northvolt,battery,cell_manufacturing,60000.0
+Salzgitter,52.1503721,10.3593147,actual,1000000000.0,Northvolt,battery,cell_manufacturing,16000.0
+Salzgitter,52.1503721,10.3593147,announced,1675200000.0,Northvolt,battery,cell_manufacturing,24000.0
+Skellefteå,64.75,21.133333,operational,1116800000.0,Northvolt,battery,cell_manufacturing,16000.0
+Skellefteå,64.75,21.133333,actual,4250000000.0,Northvolt,battery,cell_manufacturing,32000.0
+Skellefteå,64.75,21.133333,announced,4188000000.0,Northvolt,battery,cell_manufacturing,60000.0
+Umeå,63.8256568,20.2630745,operational,558400000.0,Northvolt,battery,cell_manufacturing,8000.0
+Umeå,63.8256568,20.2630745,announced,1116800000.0,Northvolt,battery,cell_manufacturing,16000.0
+Kaiserslautern,49.4432174,7.7689951,announced,2000000000.0,Opel,battery,cell_manufacturing,32000.0
+Gärtringen,48.6419208,8.9031632,announced,1000000000.0,Porsche,battery,cell_manufacturing,100.0
+Heilbronn,49.142291,9.218655,announced,6980000.0,Porsche,battery,cell_manufacturing,100.0
+Dunkirk,51.0347708,2.3772525,announced,5200000000.0,ProLogium,battery,cell_manufacturing,48000.0
+Ivancsa,47.1473327,18.8311498,announced,1946500000.0,SK Group,battery,cell_manufacturing,30000.0
+Iváncsa,47.1473327,18.8311498,announced,1623000000.0,SK Group,battery,cell_manufacturing,30000.0
+Komárom,47.7417349,18.1218256,operational,1300000000.0,SK Group,battery,cell_manufacturing,7500.0
+Komárom,47.7417349,18.1218256,actual,700000000.0,SK Group,battery,cell_manufacturing,10000.0
+Kotka,60.4674228,26.9450844,announced,3490000000.0,SVOLT,battery,cell_manufacturing,50000.0
+Budapest,47.4978789,19.0402383,announced,60750000.0,Samsung,battery,cell_manufacturing,30000.0
+Budapest,47.4978789,19.0402383,actual,720000000.0,Samsung,battery,cell_manufacturing,40000.0
+Pompignac,44.85028,-0.43736,announced,34000000.0,Startec Energy,battery,module_assembly,1000.0
+Bridgwater,51.1283378,-3.0037046,announced,4640000000.0,Tata Group,battery,cell_manufacturing,40000.0
+Sunderland,54.9058512,-1.3828727,actual,4640000000.0,Tata Group,battery,cell_manufacturing,1800.0
+Sunderland,54.9058512,-1.3828727,announced,2792000000.0,Tata Group,battery,cell_manufacturing,40000.0
+Berlin,52.510885,13.3989367,operational,5000000000.0,Tesla,battery,cell_manufacturing,100000.0
+Berlin,52.510885,13.3989367,operational,13960000000.0,Tesla,battery,cell_manufacturing,200000.0
+Wittenberg,51.8666527,12.646761,operational,34000.0,Tesvolt,battery,module_assembly,1.0
+Hauts-de-France,50.1024606,2.7247515,announced,48860000.0,Tiamat,battery,cell_manufacturing,700.0
+Nysa,50.4738029,17.3324733,operational,125000000.0,Umicore,battery,battery_materials,20000.0
+Nysa,50.4738029,17.3324733,announced,350000000.0,Umicore,battery,battery_materials,40000.0
+V4Drive,,,announced,139600000.0,Varta,battery,cell_manufacturing,2000.0
+Douai,50.3675677,3.0804641,announced,1116800000.0,Verkor,battery,cell_manufacturing,16000.0
+Dunkirk,51.0347708,2.3772525,actual,3000000000.0,Verkor,battery,cell_manufacturing,16000.0
+Dunkirk,51.0347708,2.3772525,announced,1300000000.0,Verkor,battery,cell_manufacturing,50000.0
+Grenoble,45.1875602,5.7357819,operational,250000000.0,Verkor,battery,cell_manufacturing,150.0
+Rodez,44.3511408,2.5728493,announced,1600000000.0,Verkor,battery,cell_manufacturing,16000.0
+South of France,43.5768598,7.0209473,announced,1600000000.0,Verkor,battery,cell_manufacturing,16000.0
+Sagunt,39.6792916,-0.2786451,operational,2792000000.0,Volkswagen,battery,cell_manufacturing,40000.0
+Sagunto,39.6792916,-0.2786451,actual,10000000000.0,Volkswagen,battery,cell_manufacturing,40000.0
+Gothenburg,57.7072326,11.9670171,actual,3490000000.0,Volvo Group,battery,cell_manufacturing,50000.0
+Hampshire,51.04498135,-1.243313330111055,announced,139600.0,Ilika,battery,cell_manufacturing,2.0
+GigafactoryX,,,announced,41880000.0,Impact Clean Power Technology,battery,cell_manufacturing,600.0
+Romano Canavese,45.388657,7.86652,announced,3141000000.0,Italvolt,battery,cell_manufacturing,45000.0
