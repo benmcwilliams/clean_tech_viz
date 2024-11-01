@@ -1,0 +1,5 @@
+capex,capacity_numeric,status,company,dt_announce
+138.0,20.0,operational,Battrion,04-2021
+200.0,2000.0,announced,Phi4tech,03-2021
+6.0,20000.0,operational,Umicore,06-2018
+9.0,40000.0,announced,Umicore,12-2023

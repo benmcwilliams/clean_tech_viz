@@ -1,0 +1,67 @@
+capex,capacity_numeric,status,company,dt_announce
+655.0,20.0,announced,Aker Horizons,06-2023
+2944.0,2.5,operational,Axpo,01-2023
+1090.0,10.0,announced,BOC,09-2020
+10000.0,200.0,announced,BP,02-2023
+100.0,500.0,announced,Cummins,05-2021
+5000.0,6.0,announced,DTU,01-2022
+1500.0,130.0,announced,EDP,04-2023
+2400.0,50.0,announced,EI-H2,05-2021
+3116.0,0.67,announced,EMEC,11-2020
+1400.0,20.0,actual,Everfuel,08-2021
+110.0,300.0,announced,Everfuel,08-2021
+1400.0,20.0,announced,Everfuel,02-2023
+110.0,300.0,operational,Everfuel,
+1500.0,6.0,announced,Everfuel,10-2021
+1000.0,20.0,operational,Everfuel A_S,
+3300.0,10.0,announced,Everfuel A_S,
+667.0,300.0,announced,Fortescue Future Indutries,10-2023
+8500.0,2.0,announced,Fortum,05-2024
+8500.0,2.0,announced,Fortum,05-2024
+2082.0,1.22,announced,Fusion Fuel,02-2022
+2500.0,100.0,announced,Galp,07-2020
+718.0,20.0,announced,Greenstat,08-2024
+2000.0,100.0,announced,HH2E,07-2023
+3333.0,30.0,announced,HS Orka,08-2021
+2967.0,30.0,announced,Heide refinery,08-2020
+1005.0,20.0,announced,HySynergy,09-2021
+3333.0,30.0,announced,Hydrogen Ventures Limited,06-2021
+3600.0,10.0,announced,Iberdrola,03-2021
+7500.0,20.0,operational,Iberdrola SA,10-2024
+2250.0,800.0,announced,Iberdrola SA,10-2024
+3600.0,10.0,announced,Iberdrola SA,10-2024
+4127.0,1.26,announced,Keme Energy,02-2022
+556.0,900.0,announced,Lausitz Energie Bergbau AG,07-2023
+1250.0,5.0,actual,Lhyfe,10-2024
+20000.0,1.0,operational,Lhyfe,10-2021
+233.0,300.0,operational,Lhyfe,10-2021
+20000.0,1.0,operational,Lhyfe,10-2023
+1300.0,10.0,announced,Lhyfe,01-2024
+2900.0,100.0,announced,Meld Energy,06-2023
+2250.0,6.0,announced,Messer,
+660.0,30.0,announced,Motor Oil (Hellas) Corinth Refineries SA,04-2024
+550.0,20.0,announced,Nouryon,01-2020
+4000.0,35.0,announced,OMV Petrom,02-2024
+120.0,1000.0,operational,ORLEN,04-2024
+15.0,1000.0,operational,ORLEN,04-2024
+2318.0,2.0,operational,Orsted,01-2021
+2500.0,20.0,announced,P2X Solutions,04-2021
+1580.0,100.0,announced,PKN Orlen,04-2023
+1000.0,10.0,announced,Principle Power,10-2022
+3000.0,10.0,announced,REN,07-2020
+1500.0,500.0,announced,RIC Energy,05-2023
+571.0,14.0,operational,RWE,06-2021
+2063.0,300.0,actual,RWE,06-2021
+3560.0,2.5,operational,Repsol,
+1812.0,552.0,announced,Repsol,10-2021
+1533.0,150.0,announced,Repsol,09-2022
+2500.0,40.0,announced,Sener,06-2023
+1267.0,12.0,operational,Siemens,05-2020
+1400.0,25.0,announced,VoltH2,09-2020
+1400.0,25.0,announced,VoltH2,02-2023
+5000.0,20.0,announced,Wacker Chemie,01-2021
+1144.0,24.0,operational,Yara,03-2022
+100.0,500.0,announced,Cummins,05-2021
+2000.0,10.0,announced,EWE,10-2024
+1090.0,10.0,announced,ScottishPower,09-2020
+2000.0,1000.0,announced,ThyssenKrupp,06-2021

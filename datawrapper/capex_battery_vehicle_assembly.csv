@@ -1,0 +1,29 @@
+capex,capacity_numeric,status,company,dt_announce
+48.0,25000.0,announced,Aehra,08-2024
+50.0,200.0,announced,BYD,03-2017
+50.0,400.0,operational,BYD,10-2016
+9.0,80000.0,operational,Fiat Chrysler,07-2019
+9.0,80000.0,operational,Fiat Chrysler,07-2019
+10.0,300000.0,announced,Ford,06-2022
+4.0,365000.0,operational,Jaguar Land Rover,10-2023
+193.0,3000.0,operational,LEVC,12-2022
+8.0,10000.0,operational,London Electric Vehicle Company,None
+17.0,20000.0,operational,London Taxi Company,03-2017
+9.0,50000.0,operational,Magna,11-2022
+17.0,50.0,operational,Munro Vehicles,04-2022
+0.0,500000.0,announced,PSA Group,11-2019
+4.0,350000.0,announced,PSA Group,02-2017
+0.0,400000.0,operational,PSA Group,
+35.0,20000.0,operational,Porsche,
+6.0,40000.0,actual,Porsche,07-2019
+1.0,400000.0,operational,Renault Group,06-2021
+1.0,480000.0,announced,Renault Group,06-2021
+6.0,500000.0,announced,Seat,02-2023
+0.0,260000.0,announced,Sono Motors,07-2017
+0.0,260000.0,announced,Sono Motors,02-2020
+0.0,150000.0,announced,Stellantis Group,None
+0.0,50000.0,announced,Uniti,01-2017
+916667.0,36.0,operational,Volkswagen,11-2019
+3.0,300000.0,announced,Volkswagen,11-2018
+80.0,5000.0,announced,Zhi Dou,04-2018
+8.0,500000.0,operational,Tesla,11-2019

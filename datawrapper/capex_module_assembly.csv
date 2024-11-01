@@ -1,0 +1,6 @@
+capex,capacity_numeric,status,company,dt_announce
+480000.0,0.1,operational,Dräxlmaier,10-2020
+33.0,1500.0,operational,Microvast,11-2019
+34.0,5000.0,announced,Northvolt,10-2018
+187.0,5000.0,operational,Northvolt,07-2022
+14.0,12000.0,announced,Northvolt,06-2023
