@@ -1,57 +1,37 @@
 capex,capacity_numeric,status,company,dt_announce
-65.0,13000.0,operational,ACC,05-2023
-144.0,9000.0,announced,AESC Envision,06-2021
-58.0,9000.0,announced,AESC Envision,01-2022
-20.0,50000.0,operational,AESC Envision,07-2024
 43.0,12000.0,actual,AESC Envision,07-2021
 9.0,25000.0,announced,AESC Envision,07-2021
 60.0,35000.0,announced,AESC Envision,07-2021
+6496.0,0.05,operational,Ilika,05-2022
+65.0,13000.0,operational,ACC,05-2023
+39.0,28000.0,operational,Eve Energy,05-2023
+2.0,30000.0,announced,Samsung,02-2021
+18.0,40000.0,actual,Samsung,09-2023
 116.0,40000.0,announced,Agratas,10-2024
-100.0,1000.0,operational,Akasol,08-2021
-64.0,22000.0,announced,Avesta Battery and Energy Engineering,06-2023
-4.0,30000.0,actual,BMZ,
+81.0,100000.0,announced,Contemporary Amperex Technology Co. Limited (CATL),10-2024
+58.0,9000.0,announced,AESC Envision,01-2022
+26.0,50000.0,announced,Envision AESC,07-2022
 40.0,35000.0,announced,Britishvolt,05-2020
 133.0,15000.0,announced,CALB,11-2022
-225.0,8000.0,operational,CATL,04-2022
-73.0,100000.0,announced,CATL,08-2022
-129.0,14000.0,actual,CATL,06-2023
-225.0,8000.0,operational,CATL,04-2018
-81.0,100000.0,announced,Contemporary Amperex Technology Co. Limited (CATL),10-2024
 600.0,100.0,announced,Customcells,11-2022
-26.0,50000.0,announced,Envision AESC,07-2022
 70.0,20000.0,announced,Eve Energy,01-2021
-39.0,28000.0,operational,Eve Energy,05-2023
-100.0,6000.0,announced,Farasis Energy,05-2019
-50.0,29000.0,actual,Freyr,06-2022
-6496.0,0.05,operational,Ilika,05-2022
-951200.0,0.01,announced,Ilika,
+144.0,9000.0,announced,AESC Envision,06-2021
 25.0,1200.0,operational,Impact Clean Power Technology,07-2022
+116.0,40000.0,announced,Tata Group,
+39.0,60000.0,announced,Northvolt,
+50.0,29000.0,actual,Freyr,06-2022
+4.0,30000.0,actual,BMZ,
+108.0,48000.0,announced,ProLogium,05-2023
+100.0,1000.0,announced,Morrow Batteries,06-2020
+116.0,40000.0,announced,Tata Group,07-2023
+54.0,30000.0,announced,SK Group,01-2021
 89.0,45000.0,announced,Italvolt,02-2021
-3.0,35000.0,operational,LG,01-2020
+100.0,6000.0,announced,Farasis Energy,05-2019
+100.0,16000.0,announced,Verkor,08-2020
+75.0,60000.0,announced,Northvolt,03-2022
 20.0,70000.0,operational,LG,
 9.0,65000.0,actual,LG,
 5.0,90000.0,announced,LG,
-100.0,1000.0,announced,Morrow Batteries,06-2020
-75.0,60000.0,announced,Northvolt,03-2022
-39.0,60000.0,announced,Northvolt,
-39.0,60000.0,operational,Northvolt,
-62.0,16000.0,actual,Northvolt,06-2019
-133.0,32000.0,actual,Northvolt,01-2023
-62.0,32000.0,announced,Opel,12-2018
-10000.0,100.0,announced,Porsche,05-2021
-108.0,48000.0,announced,ProLogium,05-2023
-65.0,30000.0,announced,SK Group,06-2021
-54.0,30000.0,announced,SK Group,01-2021
 173.0,7500.0,operational,SK Group,11-2017
 70.0,10000.0,actual,SK Group,03-2018
-2.0,30000.0,announced,Samsung,02-2021
-18.0,40000.0,actual,Samsung,09-2023
-116.0,40000.0,announced,Tata Group,07-2023
-2578.0,1800.0,actual,Tata Group,07-2023
-50.0,100000.0,operational,Tesla,
-188.0,16000.0,actual,Verkor,02-2022
-26.0,50000.0,announced,Verkor,
-1667.0,150.0,operational,Verkor,None
-100.0,16000.0,announced,Verkor,08-2020
-100.0,16000.0,announced,Verkor,07-2020
-250.0,40000.0,actual,Volkswagen,01-2023
+100.0,1000.0,operational,Akasol,can the announcement date be after the construction date?

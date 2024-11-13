@@ -1,25 +1,21 @@
 capex,capacity_numeric,status,company,dt_announce
-57.0,150.0,actual,Brite Solar,01-2024
-32.0,500.0,announced,Comal,07-2024
-200.0,3000.0,actual,Enel,01-2022
 200.0,3000.0,announced,Enel,
-210.0,100.0,operational,Energyra,08-2017
-275.0,20.0,operational,Fonroche Energie SARL,
-83.0,42.0,operational,Fonroche Energie SARL,04-2010
-12.0,2000.0,announced,FuturaSun,03-2023
-12.0,2000.0,announced,Futurasun,01-2023
-5000.0,400.0,operational,Heckert Solar,08-2022
 52.0,400.0,operational,Heckert Solar,09-2021
 714.0,2800.0,announced,Heckert Solar,08-2022
-725.0,40.0,announced,Hyet Solar,09-2023
-185.0,1000.0,actual,Meyer Burger,12-2022
-160.0,200.0,announced,Midsummer,07-2023
-127.0,150.0,operational,Sanyo,03-2011
-183.0,300.0,announced,Singulus,11-2018
 10.0,300.0,operational,Solarge,09-2021
-167.0,60.0,operational,Solarstone,09-2023
+725.0,40.0,announced,Hyet Solar,09-2023
 83.0,600.0,announced,Solitek,03-2023
-43.0,250.0,operational,Tube Solar AG,09-2020
 19.0,500.0,announced,Voltec Solar,11-2023
 15.0,1000.0,operational,Voltec Solar,11-2023
-32.0,500.0,announced,Comal,01-2024
+43.0,250.0,operational,Tube Solar AG,09-2020
+183.0,300.0,announced,Singulus,11-2018
+32.0,500.0,announced,Comal,07-2024
+275.0,20.0,operational,Fonroche Energie SARL,
+83.0,42.0,operational,Fonroche Energie SARL,04-2010
+2655.0,565.0,announced,Seraphim,03-2023
+167.0,60.0,operational,Solarstone,09-2023
+12.0,2000.0,announced,FuturaSun,03-2023
+160.0,200.0,announced,Midsummer,07-2023
+210.0,100.0,operational,Energyra,08-2017
+200.0,3000.0,actual,Enel,01-2022
+127.0,150.0,operational,Sanyo,03-2011
