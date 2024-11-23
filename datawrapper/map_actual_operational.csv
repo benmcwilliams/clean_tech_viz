@@ -1,71 +1,202 @@
 location,latitude,longitude,status,investment_eur,company,tech,component
-Southern Italy,,,operational,28666666.666666668,Enel,solar,modules
-Garzweiler Mine,,,operational,2780666.6666666665,RWE,solar,modules
-Apulia,40.9842539,16.6210027,operational,7166666.666666667,Midsummer,solar,modules
-Langenwetzendorf,50.6803176,12.10921,operational,21000000.0,Heckert Solar,solar,modules
-Sunderland,54.9058512,-1.3828727,actual,521999999.9999999,AESC Envision,battery,cell_manufacturing
-Altenau,51.8034705,10.4472774,operational,143333.33333333334,BYD,solar,modules
-Venissieux,45.6977109,4.8855966,operational,21500000.0,Bosch,solar,modules
-near Milan,,,operational,11466666.666666668,Verditek,solar,modules
-Goliath,52.6148632,-2.9079622,operational,324800.0,Ilika,battery,cell_manufacturing
 Billy-Berclau _ Douvrin,,,operational,850000000.0,ACC,battery,cell_manufacturing
+Navalmoral de la Mata,39.8928306,-5.5401199,operational,1000000000.0,AESC Envision,battery,cell_manufacturing
+Sunderland,54.9058512,-1.3828727,actual,521999999.9999999,AESC Envision,battery,cell_manufacturing
+Oberhausen,51.4696137,6.8514435,operational,57173913.04347827,Air Liquide,hydrogen,green_hydrogen
+Darmstadt,49.8851869,8.6736295,operational,100000000.0,Akasol,battery,cell_manufacturing
+Frankfurt (Oder),52.3412273,14.549452,actual,36750000.0,Astronergy Solarmodule GmbH,solar,modules
+Brussel,50.8465573,4.351697,operational,967200000.0,Audi,zero_emission_vehicle,battery_vehicle_assembly
+Böllinger Höfe,49.1789606,9.167642566842364,operational,8060000.0,Audi,zero_emission_vehicle,battery_vehicle_assembly
+Disneyland Paris,48.87007635000001,2.773909350791818,operational,3790500.0,Axpo,solar,modules
+Domat_Ems,46.8351271,9.4506859,operational,7360000.0,Axpo,hydrogen,green_hydrogen
+Debrecen,47.531399,21.6259782,operational,1209000000.0,BMW,zero_emission_vehicle,battery_vehicle_assembly
+Regensburg,49.0195333,12.0974869,operational,8060000.0,BMW,zero_emission_vehicle,battery_vehicle_assembly
+Karlstein,50.0443203,9.0337844,operational,1047000000.0,BMZ,battery,cell_manufacturing
+Karlstein,50.0443203,9.0337844,actual,120000000.0,BMZ,battery,cell_manufacturing
+Altenau,51.8034705,10.4472774,operational,105000.0,BYD,solar,modules
+Komárom,47.7417349,18.1218256,operational,20000000.0,BYD,zero_emission_vehicle,battery_vehicle_assembly
+Dübendorf,47.3969942,8.6185666,operational,2760000.0,Battrion,battery,battery_materials
+Venissieux,45.6977109,4.8855966,operational,15750000.0,Bosch,solar,modules
+Vénissieux,45.6977109,4.8855966,operational,15750000.0,Bosch,solar,modules
+Patras,38.246242,21.7350847,actual,8600000.0,Brite Solar,solar,modules
+Tarnow,50.02598829999999,20.96405842696229,operational,3150000.0,Bruk-Bet Solar,solar,modules
+Tarnów,50.02598829999999,20.96405842696229,operational,3150000.0,Bruk-Bet Solar,solar,modules
+Arnstadt,50.8349097,10.9461479,operational,1800000000.0,CATL,battery,cell_manufacturing
+Arnstadt,50.8349097,10.9461479,actual,977200000.0,CATL,battery,cell_manufacturing
+Thueringia,50.3408448,11.1828245,actual,1800000000.0,CATL,battery,cell_manufacturing
+Thuringia,50.9014721,11.0377839,operational,1800000000.0,CATL,battery,cell_manufacturing
+Thuringia,50.9014721,11.0377839,actual,977200000.0,CATL,battery,cell_manufacturing
+Wismar,53.8909832,11.4647932,operational,31500000.0,CS Wismar GmbH,solar,modules
+AVL site,,,operational,1905797.101449275,Ceres,hydrogen,green_hydrogen
+Folelli,42.444114,9.5069988,actual,285869.5652173913,Corsica Sole,hydrogen,green_hydrogen
+Fredericia,55.565268,9.7562169,actual,38115942.02898551,Crossbridge Energy A_S,hydrogen,green_hydrogen
+Bremen,53.0758196,8.8071646,operational,403000000.0,Daimler,zero_emission_vehicle,battery_vehicle_assembly
+Leipzig,51.3406321,12.3747329,operational,48000000.0,Dräxlmaier,battery,module_assembly
+Altbach_Deizisau,48.71869694999999,9.371702711367362,operational,2553768115.942029,EnBW,hydrogen,green_hydrogen
+Wyhlen,47.5487995,7.691887,operational,1905797.101449275,EnBW,hydrogen,green_hydrogen
+3Sun,37.4218429,15.0562239,operational,21000000.0,Enel,solar,modules
+3Sun,37.4218429,15.0562239,actual,600000000.0,Enel,solar,modules
+Southern Italy,,,operational,21000000.0,Enel,solar,modules
+Zaandam,52.4424926,4.8298607,operational,21000000.0,Energyra,solar,modules
+Coventry,52.4081812,-1.510477,actual,4188000000.0,Eve Energy,battery,cell_manufacturing
 Debrecen,47.531399,21.6259782,operational,1080000000.0,Eve Energy,battery,cell_manufacturing
-Eindhoven,51.4392648,5.478633,operational,3000000.0,Solarge,solar,modules
-Freiburg,47.9960901,7.8494005,operational,24366666.666666668,SolarWorld,solar,modules
-Freiburg,47.9960901,7.8494005,operational,86000000.0,SolarWorld,solar,modules
-Budapest,47.4978789,19.0402383,actual,720000000.0,Samsung,battery,cell_manufacturing
-Frankfurt (Oder),52.3412273,14.549452,actual,50166666.66666667,Astronergy Solarmodule GmbH,solar,modules
-Dinsheim-sur-Bruche,48.5430561,7.4269445,operational,15000000.0,Voltec Solar,solar,modules
-Gdańsk,54.3482907,18.6540233,operational,120416666.66666666,Northvolt,battery,module_assembly
-Dresden,51.0493286,13.7381437,operational,43000000.0,Solarwatt,solar,modules
-Göttingen,51.5328328,9.9351811,operational,120416666.66666666,Gotion High Tech,battery,module_assembly
-Augsburg,48.3690341,10.8979522,operational,10800000.0,Tube Solar AG,solar,modules
-San Daniele del Friuli,46.1532406,13.0090339,operational,5733333.333333334,Fly Solartech Solutions Srl,solar,modules
-Geesthacht,53.4374683,10.3678235,operational,344000.0,Vattenfall,solar,modules
-Poitiers,46.5802596,0.340196,operational,67492307.69230768,Forsee Power,battery,cell_manufacturing
-Coventry,52.4081812,-1.510477,actual,4049538461.538461,Eve Energy,battery,cell_manufacturing
-Hautes-Alpes,44.6564666,6.352024584507948,operational,5733333.333333334,Sunwind,solar,modules
-Hof,50.3219015,11.9178807,operational,200.66666666666669,Sono Motors,solar,modules
-Bitburg,49.9732762,6.524947,actual,78833333.33333334,Soluxtec,solar,modules
-Umeå,63.8256568,20.2630745,operational,539938461.5384614,Northvolt,battery,cell_manufacturing
-Warsaw,52.2337172,21.07143223563649,operational,29750000.0,Impact Clean Power Technology,battery,cell_manufacturing
+Fredericia,55.565268,9.7562169,actual,28000000.0,Everfuel,hydrogen,green_hydrogen
+Herning,56.1379757,8.9746623,operational,33100000.0,Everfuel,hydrogen,green_hydrogen
+Fredericia,55.565268,9.7562169,operational,20000000.0,Everfuel A_S,hydrogen,green_hydrogen
+The Hague,52.07494555,4.269680220536451,operational,1575000.0,Exasun,solar,modules
+Mirafiori,44.9344436,9.59685,operational,700000000.0,Fiat Chrysler,zero_emission_vehicle,battery_vehicle_assembly
+Turin,45.0677551,7.6824892,operational,700000000.0,Fiat Chrysler,zero_emission_vehicle,battery_vehicle_assembly
+Tychy,50.114397,18.9965933,operational,2119780000.0,Fiat Chrysler,zero_emission_vehicle,battery_vehicle_assembly
+Vaasa,63.08182094999999,21.4798125222968,actual,3668750000.0,Finnish Minerals Group,battery,battery_materials
+Frankfurt an der Oder,52.3412273,14.549452,operational,46830000.0,First Solar,solar,modules
+San Daniele del Friuli,46.1532406,13.0090339,operational,4200000.0,Fly Solartech Solutions Srl,solar,modules
 Agen,44.2015827,0.6176112,operational,5500000.0,Fonroche Energie SARL,solar,modules
 Agen,44.2015827,0.6176112,operational,3500000.0,Fonroche Energie SARL,solar,modules
-Agen,44.2015827,0.6176112,operational,10033333.333333334,Fonroche Energie SARL,solar,modules
-Sunderland,54.9058512,-1.3828727,operational,121486153.84615384,Tata Group,battery,cell_manufacturing
-Bourgoin-Jailleu,,,operational,71666666.66666667,Photowatt,solar,modules
-Northern Sweden,,,operational,2699692307.6923075,Northvolt,battery,cell_manufacturing
+Agen,44.2015827,0.6176112,operational,7350000.0,Fonroche Energie SARL,solar,modules
+Chasseneuil-du-Poitou,46.6505634,0.3748389,operational,34000000.0,Forsee Power,battery,module_assembly
+Poitiers,46.5802596,0.340196,operational,69800000.0,Forsee Power,battery,cell_manufacturing
 Mo i Rana,66.3110969,14.1386991,actual,1445000000.0,Freyr,battery,cell_manufacturing
-Karlstein,50.0443203,9.0337844,operational,1012384615.3846153,BMZ,battery,cell_manufacturing
-Karlstein,50.0443203,9.0337844,actual,120000000.0,BMZ,battery,cell_manufacturing
-Tarnow,50.02598829999999,20.96405842696229,operational,4300000.0,Bruk-Bet Solar,solar,modules
-Gothenburg,57.7072326,11.9670171,actual,3374615384.6153846,Volvo Group,battery,cell_manufacturing
-Voderady,48.2765255,17.559025,operational,6749230.769230769,Gotion InoBat Batteries,battery,cell_manufacturing
-Mikkeli,61.6877956,27.2726569,operational,2866666.666666667,Valoe,solar,modules
-Thalheim,50.7024268,12.8514034,operational,118966666.66666667,Solibro GmbH,solar,modules
-Rugby,52.3726682,-1.2620038,operational,1003333.3333333334,Longi Solar,solar,modules
-Viljandi,58.36454,25.5878074,operational,10000000.0,Solarstone,solar,modules
-Wismar,53.8909832,11.4647932,operational,28666666.666666668,Sonnenstromfabrik,solar,modules
-Zaanstad,52.4689235,4.773783522451712,operational,14333333.333333334,Hanwha Group,solar,modules
-Lucerne,47.0505452,8.3054682,operational,22933.333333333336,Insolight,solar,modules
-Årdal,61.28605655,7.804961075198172,operational,8730000.0,Norsun,solar,ingot_wafers
-Zaandam,52.4424926,4.8298607,operational,21000000.0,Energyra,solar,modules
-Vis,43.0434206,16.16547253260465,operational,501666.6666666667,HEP,solar,modules
-Yverdon-les-Baines,,,operational,12041666.666666666,Leclanche,battery,module_assembly
-Scarmagno,45.384456,7.841119,actual,4724461538.461538,Italvolt,battery,cell_manufacturing
-Wismar,53.8909832,11.4647932,operational,43000000.0,CS Wismar GmbH,solar,modules
-3Sun,37.4218429,15.0562239,operational,28666666.666666668,Enel,solar,modules
-3Sun,37.4218429,15.0562239,actual,600000000.0,Enel,solar,modules
-Sagunto,39.6792916,-0.2786451,actual,2699692307.6923075,Volkswagen,battery,cell_manufacturing
-Grenoble,45.1875602,5.7357819,operational,10123846.153846154,Verkor,battery,cell_manufacturing
-"Cobra Solar park, Spain",,,operational,27090000.0,Trina Solar,solar,modules
-Disneyland Paris,48.87007635000001,2.773909350791818,operational,5174333.333333334,Axpo,solar,modules
-Torgau,51.5581272,13.0046538,operational,14333333.333333334,Saint Gobain,solar,modules
-Freiburg,47.9960901,7.8494005,operational,344000.0,badenovaWÄRMEPLUS,solar,modules
+Lannion,48.7322183,-3.4587994,operational,15750000.0,German solar manufacturer,solar,modules
+Berlin-Adlershof,52.434735,13.5415575,operational,3675000.0,Global Solar Energy,solar,modules
+Göttingen,51.5328328,9.9351811,operational,170000000.0,Gotion High Tech,battery,module_assembly
+Voderady,48.2765255,17.559025,operational,6980000.0,Gotion InoBat Batteries,battery,cell_manufacturing
+"Skive, Denmark",56.6459244,8.932732160154906,operational,190579710.1449275,Green Hydrogen Systems,hydrogen,green_hydrogen
+Westre,54.8542222,8.985753,operational,428804.347826087,Grenzland Buergerenergie,hydrogen,green_hydrogen
+Oosterwolde,52.9892251,6.2908202,operational,2668115.942028985,GroenLeven,hydrogen,green_hydrogen
+Zaanstad,52.4689235,4.773783522451712,operational,10500000.0,Hanwha Group,solar,modules
+Chemnitz,50.8323531,12.918914,operational,2000000000.0,Heckert Solar,solar,modules
+Langenwetzendorf,50.6803176,12.10921,operational,21000000.0,Heckert Solar,solar,modules
+Munich,48.1371079,11.5753822,operational,4886000000.0,Hithium,battery,cell_manufacturing
+Fredericia,55.565268,9.7562169,actual,571739130.4347826,HySynergy,hydrogen,green_hydrogen
+Czech plant,,,operational,241800000.0,Hyundai,zero_emission_vehicle,battery_vehicle_assembly
+Nosovice,49.6606723,18.426381,operational,2821000000.0,Hyundai,zero_emission_vehicle,battery_vehicle_assembly
+Sardinia,40.0912813,9.0305773,operational,381159.4202898551,IMI Critical Engineering,hydrogen,green_hydrogen
+Puertollano,38.6852161,-4.1111749,operational,150000000.0,Iberdrola SA,hydrogen,green_hydrogen
+Goliath,52.6148632,-2.9079622,operational,324800.0,Ilika,battery,cell_manufacturing
+GigafactoryX,,,actual,68000000.0,Impact Clean Power Technology,battery,module_assembly
+Hannover,52.3744779,9.7385532,operational,41880000.0,Impact Clean Power Technology,battery,cell_manufacturing
+Pruszkow,52.1626141,20.8080199,actual,136000000.0,Impact Clean Power Technology,battery,module_assembly
+Warsaw,52.2337172,21.07143223563649,operational,29750000.0,Impact Clean Power Technology,battery,cell_manufacturing
+Lucerne,47.0505452,8.3054682,operational,16800.0,Insolight,solar,modules
+Scarmagno,45.384456,7.841119,actual,4886000000.0,Italvolt,battery,cell_manufacturing
+Nitra,48.31295,18.0894593,operational,1300000000.0,Jaguar Land Rover,zero_emission_vehicle,battery_vehicle_assembly
+Ansty,52.445493,-1.4192537,operational,80600000.0,LEVC,zero_emission_vehicle,battery_vehicle_assembly
+Coventry,52.4081812,-1.510477,operational,580000000.0,LEVC,zero_emission_vehicle,battery_vehicle_assembly
+Biskupice Podgórne,51.0311258,16.8842434,operational,95000000.0,LG,battery,cell_manufacturing
 Wroclaw,51.1089776,17.0326689,operational,1380000000.0,LG,battery,cell_manufacturing
 Wroclaw,51.1089776,17.0326689,actual,571000000.0,LG,battery,cell_manufacturing
+Yverdon-les-Baines,,,operational,17000000.0,Leclanche,battery,module_assembly
+Gersthofen,48.4248151,10.8778564,operational,1905797.101449275,Lhyfe,hydrogen,green_hydrogen
+Le Cheylas,45.370339,5.9927101,actual,6250000.0,Lhyfe,hydrogen,green_hydrogen
+Le Croisic,47.2933971,-2.5094404,operational,20000000.0,Lhyfe,hydrogen,green_hydrogen
+Nantes,47.2186371,-1.5541362,operational,70000000.0,Lhyfe,hydrogen,green_hydrogen
+Sealhyfe,,,operational,20000000.0,Lhyfe,hydrogen,green_hydrogen
+Eindhoven,51.4392648,5.478633,actual,80600.0,Lightyear,zero_emission_vehicle,battery_vehicle_assembly
+Eindhoven,51.4392648,5.478633,operational,725400.0,Lightyear,zero_emission_vehicle,battery_vehicle_assembly
+Turin,45.0677551,7.6824892,operational,806000.0,Local Motors,zero_emission_vehicle,battery_vehicle_assembly
+Coventry,52.4081812,-1.510477,operational,81200000.0,London Electric Vehicle Company,zero_emission_vehicle,battery_vehicle_assembly
+Ansty,52.445493,-1.4192537,operational,348000000.0,London Taxi Company,zero_emission_vehicle,battery_vehicle_assembly
+Rugby,52.3726682,-1.2620038,operational,735000.0,Longi Solar,solar,modules
+Graz,47.0708678,15.4382786,operational,450000000.0,Magna,zero_emission_vehicle,battery_vehicle_assembly
+Porcelette,49.1569855,6.6535741,operational,4620000.0,Maxeon,solar,modules
+Bremen,53.0758196,8.8071646,operational,806000.0,Mercedes-Benz,zero_emission_vehicle,battery_vehicle_assembly
+Freiberg,50.9169415,13.3428889,operational,42000000.0,Meyer Burger,solar,modules
+Freiberg,50.9169415,13.3428889,actual,185000000.0,Meyer Burger,solar,modules
+Fréjus,43.4330308,6.7360182,operational,60450000.0,Micro Mobility,zero_emission_vehicle,battery_vehicle_assembly
+Turin,45.0677551,7.6824892,operational,60450000.0,Micro Mobility,zero_emission_vehicle,battery_vehicle_assembly
+Ludwigsfelde,52.3016096,13.2610163,operational,50000000.0,Microvast,battery,module_assembly
+Ludwigsfelde,52.3016096,13.2610163,actual,204000000.0,Microvast,battery,module_assembly
+Apulia,40.9842539,16.6210027,operational,5250000.0,Midsummer,solar,modules
+East Kilbride,55.7601174,-4.1796401,operational,869999.9999999999,Munro Vehicles,zero_emission_vehicle,battery_vehicle_assembly
+Copenhagen,55.6867243,12.5700724,operational,3811594.202898551,NEL Hydrogen,hydrogen,green_hydrogen
+Pompignac,44.85028,-0.43736,operational,34900000.0,Neogy,battery,cell_manufacturing
+Freiburg,47.9960901,7.8494005,operational,8000000.0,NexWafe,solar,ingot_wafers
+Årdal,61.28605655,7.804961075198172,operational,8730000.0,NorSun,solar,ingot_wafers
+Årdal,61.28605655,7.804961075198172,operational,54000000.0,Norsun,solar,ingot_wafers
+Gdańsk,54.3482907,18.6540233,operational,935000000.0,Northvolt,battery,module_assembly
+Northern Sweden,,,operational,2792000000.0,Northvolt,battery,cell_manufacturing
+Northvolt Ett,64.73432875,21.08690379187087,operational,4188000000.0,Northvolt,battery,cell_manufacturing
+Northvolt Ett gigafactory,,,operational,2337500000.0,Northvolt,battery,cell_manufacturing
+Salzgitter,52.1503721,10.3593147,actual,1000000000.0,Northvolt,battery,cell_manufacturing
+Skellefteå,64.75,21.133333,operational,1116800000.0,Northvolt,battery,cell_manufacturing
+Skellefteå,64.75,21.133333,actual,4250000000.0,Northvolt,battery,cell_manufacturing
+Umeå,63.8256568,20.2630745,operational,558400000.0,Northvolt,battery,cell_manufacturing
+Bielsko-Biala,49.81207845,19.02919880201394,operational,1905797101.449275,ORLEN,hydrogen,green_hydrogen
+Gorzów Wielkopolski,52.73057555,15.21075531909385,operational,1905797101.449275,ORLEN,hydrogen,green_hydrogen
+Kraków,50.0619474,19.9368564,operational,120000000.0,ORLEN,hydrogen,green_hydrogen
+Warsaw,52.2337172,21.07143223563649,operational,15400000.0,ORLEN,hydrogen,green_hydrogen
+Avedøre Holme,55.608607,12.4730172,operational,4636400.0,Orsted,hydrogen,green_hydrogen
+Sochaux,47.5138641,6.8305344,operational,200000000.0,PSA Group,zero_emission_vehicle,battery_vehicle_assembly
+Bourgoin-Jailleu,,,operational,52500000.0,Photowatt,solar,modules
+Stuttgart,48.7784485,9.1800132,operational,700000000.0,Porsche,zero_emission_vehicle,battery_vehicle_assembly
+Stuttgart,48.7784485,9.1800132,actual,250000000.0,Porsche,zero_emission_vehicle,battery_vehicle_assembly
+Garzweiler Mine,,,operational,2037000.0,RWE,solar,modules
+Lingen,52.5224659,7.316584,operational,8000000.0,RWE,hydrogen,green_hydrogen
+Lingen,52.5224659,7.316584,actual,619000000.0,RWE,hydrogen,green_hydrogen
+Lannion,48.7322183,-3.4587994,operational,5250000.0,Recom,solar,modules
+Douai,50.3675677,3.0804641,operational,550000000.0,Renault Group,zero_emission_vehicle,battery_vehicle_assembly
+Abanto-Zierbena,43.3188635,-3.075375,operational,8900000.0,Repsol,hydrogen,green_hydrogen
+Petronor,41.43344475,2.216685709547456,operational,4764492.753623188,Repsol,hydrogen,green_hydrogen
+Petronor,41.43344475,2.216685709547456,actual,19057971.01449275,Repsol,hydrogen,green_hydrogen
+Petronor industrial center,,,operational,4764492.753623188,Repsol,hydrogen,green_hydrogen
+Wunsiedel,50.0373241,12.0027278,operational,16675724.63768116,Riessner Gase,hydrogen,green_hydrogen
+Veliko Trgovišće,46.0025312,15.8448908,operational,32240.0,Rimac Automobili,zero_emission_vehicle,battery_vehicle_assembly
+near Zagreb,45.7106379,16.0601741,operational,1209000.0,Rimac Automobili,zero_emission_vehicle,battery_vehicle_assembly
+Marina di Ravenna,44.4851718,12.2788139,operational,4764492.753623188,Rosetti Marino,hydrogen,green_hydrogen
 Komárom,47.7417349,18.1218256,operational,1300000000.0,SK Group,battery,cell_manufacturing
 Komárom,47.7417349,18.1218256,actual,700000000.0,SK Group,battery,cell_manufacturing
+Torgau,51.5581272,13.0046538,operational,10500000.0,Saint Gobain,solar,modules
+Budapest,47.4978789,19.0402383,actual,720000000.0,Samsung,battery,cell_manufacturing
 Dorog City,,,operational,19000000.0,Sanyo,solar,modules
-Lannion,48.7322183,-3.4587994,operational,7166666.666666667,Recom,solar,modules
-Darmstadt,49.8851869,8.6736295,operational,100000000.0,Akasol,battery,cell_manufacturing
+Cologne,50.938361,6.959974,operational,19057971.01449275,Shell,hydrogen,green_hydrogen
+Emmen,52.788937,6.8939001,operational,19057971.01449275,Shell,hydrogen,green_hydrogen
+Wesseling,50.8247166,6.9810852,operational,19057971.01449275,Shell,hydrogen,green_hydrogen
+Saillat-sur-Vienne,45.8707107,0.8153056,operational,15200000.0,Siemens,hydrogen,green_hydrogen
+Wunsiedel,50.0373241,12.0027278,actual,16675724.63768116,Siemens,hydrogen,green_hydrogen
+Lausanne,46.5218269,6.6327025,operational,3811.594202898551,SoHHytec,hydrogen,green_hydrogen
+Freiburg,47.9960901,7.8494005,operational,17850000.0,SolarWorld,solar,modules
+Freiburg,47.9960901,7.8494005,operational,63000000.0,SolarWorld,solar,modules
+Eindhoven,51.4392648,5.478633,operational,3000000.0,Solarge,solar,modules
+Viljandi,58.36454,25.5878074,operational,10000000.0,Solarstone,solar,modules
+Dresden,51.0493286,13.7381437,operational,31500000.0,Solarwatt,solar,modules
+Thalheim,50.7024268,12.8514034,operational,87150000.0,Solibro GmbH,solar,modules
+Bitburg,49.9732762,6.524947,actual,57750000.0,Soluxtec,solar,modules
+Wismar,53.8909832,11.4647932,operational,21000000.0,Sonnenstromfabrik,solar,modules
+Hof,50.3219015,11.9178807,operational,147.0,Sono Motors,solar,modules
+Mangualde,40.60354,-7.7656,operational,403000000.0,Stellantis Group,zero_emission_vehicle,battery_vehicle_assembly
+Zaragoza,41.6521342,-0.8809428,operational,354640000.0,Stellantis Group,zero_emission_vehicle,battery_vehicle_assembly
+Dresden,51.0493286,13.7381437,actual,5250000.0,Sunmaxx PVT,solar,modules
+Hautes-Alpes,44.6564666,6.352024584507948,operational,4200000.0,Sunwind,solar,modules
+Sunderland,54.9058512,-1.3828727,actual,4640000000.0,Tata Group,battery,cell_manufacturing
+Bad Lauchstädt,51.3874297,11.8679537,operational,95289855.07246377,Terrawatt Planungsgesellschaft mbH,hydrogen,green_hydrogen
+Berlin,52.510885,13.3989367,operational,5000000000.0,Tesla,battery,cell_manufacturing
+Berlin,52.510885,13.3989367,operational,13960000000.0,Tesla,battery,cell_manufacturing
+Berlin-Brandenburg,52.5091145,13.2755211,operational,3022500000.0,Tesla,zero_emission_vehicle,battery_vehicle_assembly
+Tilburg,51.58561845,5.066061613136768,operational,3627000.0,Tesla,zero_emission_vehicle,battery_vehicle_assembly
+Wittenberg,51.8666527,12.646761,operational,34000.0,Tesvolt,battery,module_assembly
+Kolin,50.0288894,15.2011571,operational,2418000000.0,Toyota,zero_emission_vehicle,battery_vehicle_assembly
+"Cobra Solar park, Spain",,,operational,19845000.0,Trina Solar,solar,modules
+Augsburg,48.3690341,10.8979522,operational,10800000.0,Tube Solar AG,solar,modules
+Nysa,50.4738029,17.3324733,operational,125000000.0,Umicore,battery,battery_materials
+Bad Lauchstädt,51.3874297,11.8679537,actual,57173913.04347827,Uniper,hydrogen,green_hydrogen
+Geesthacht,53.4374683,10.3678235,operational,252000.0,Vattenfall,solar,modules
+Markersbach,50.5329274,12.869615,operational,110250000.0,Vattenfall,solar,modules
+near Milan,,,operational,8400000.0,Verditek,solar,modules
+Dunkirk,51.0347708,2.3772525,actual,3000000000.0,Verkor,battery,cell_manufacturing
+Grenoble,45.1875602,5.7357819,operational,250000000.0,Verkor,battery,cell_manufacturing
+Linz,48.3059078,14.286198,operational,11434782.60869565,Voestalpine,hydrogen,green_hydrogen
+Dresden,51.0493286,13.7381437,operational,33000000000.0,Volkswagen,zero_emission_vehicle,battery_vehicle_assembly
+Sagunt,39.6792916,-0.2786451,operational,2792000000.0,Volkswagen,battery,cell_manufacturing
+Sagunto,39.6792916,-0.2786451,actual,10000000000.0,Volkswagen,battery,cell_manufacturing
+Dinsheim-sur-Bruche,48.5430561,7.4269445,operational,15000000.0,Voltec Solar,solar,modules
+Gothenburg,57.7072326,11.9670171,actual,3490000000.0,Volvo Group,battery,cell_manufacturing
+Herøya,67.7283833,14.7582167,operational,27451000.0,Yara,hydrogen,green_hydrogen
+Freiburg,47.9960901,7.8494005,operational,252000.0,badenovaWÄRMEPLUS,solar,modules
+Düren,50.8031684,6.4820806,operational,241800000.0,e.Volution,zero_emission_vehicle,battery_vehicle_assembly
+Lausanne,46.5218269,6.6327025,operational,3811.594202898551,École Polytechnique Fédérale de Lausanne,hydrogen,green_hydrogen
+Aosta Valley,45.730099,7.387426,operational,12387681.15942029,Enapter,hydrogen,green_hydrogen
+Ellhöft,54.8870251,8.9535148,operational,7623188.405797102,Grenzland Buergerenergie,hydrogen,green_hydrogen
+Vis,43.0434206,16.16547253260465,operational,367500.0,HEP,solar,modules
+Grünheide (Mark),52.4262298,13.8226458,operational,4000000000.0,Tesla,zero_emission_vehicle,battery_vehicle_assembly
+Mikkeli,61.6877956,27.2726569,operational,2100000.0,Valoe,solar,modules
+"Herøya Industrial Park, Porsgrunn",,,operational,45739130.43478261,Yara,hydrogen,green_hydrogen
